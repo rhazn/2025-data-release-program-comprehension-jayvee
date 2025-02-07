@@ -1,0 +1,18 @@
+[project]
+name = "data-release-program-comprehension-jayvee"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "limepy>=0.1.14",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+    "pandas>=2.2.3",
+    "pingouin==0.5.5",
+    "plot-likert>=0.5.0",
+    "pyarrow>=19.0.0",
+    "scipy>=1.15.1",
+    "seaborn==0.13.2",
+]
