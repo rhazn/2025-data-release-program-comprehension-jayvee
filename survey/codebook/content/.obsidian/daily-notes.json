@@ -1,0 +1,5 @@
+{
+  "autorun": false,
+  "folder": "daily",
+  "template": "templates/daily.md"
+}

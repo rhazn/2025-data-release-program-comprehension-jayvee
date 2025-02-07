@@ -1,0 +1,22 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_files",
+  "legacyEditor": false,
+  "livePreview": true,
+  "newLinkFormat": "absolute",
+  "newFileLocation": "current",
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showLineNumber": false,
+  "tabSize": 4,
+  "showInlineTitle": true,
+  "defaultViewMode": "source",
+  "promptDelete": false,
+  "useTab": false,
+  "readableLineLength": true
+}

@@ -1,0 +1,107 @@
+{
+  "main": {
+    "id": "e000dd4ef9d1d261",
+    "type": "split",
+    "children": [
+      {
+        "id": "f55c2f4171cb2ada",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "947185b93d72518e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8169dddb45745464",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5972ea8348ce5221",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c72114e3aa6a0dd1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "data engineering for data",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 176.5
+  },
+  "right": {
+    "id": "5af21831ee3e4326",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c0af5098e169d2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "644ecd2ba5b98d94",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "754dd1eca79fceb7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f55c2f4171cb2ada",
+  "lastOpenFiles": [
+    "university/Learning Agreements.md",
+    "Data Engineering für Data Science.md",
+    "university/Guest Speaker Management.md",
+    "university/ADAP.md",
+    "Travel Checklist.md",
+    "university/MA Thesis.md",
+    "university/PROJ.md",
+    "university/SEMI.md",
+    "Untitled.md",
+    "daily/2022-10-10.md"
+  ]
+}
