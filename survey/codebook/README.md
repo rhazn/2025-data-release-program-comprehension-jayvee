@@ -11,7 +11,6 @@
 
 ## Changes
 - changed `.gitignore` and removed the rule for `.obsidian` because we want to commit the `.obsidian` folder
-- changed `quartz/components/Explorer.tsx` and added hardcoded link to `Code Book` as index on `/`
 - changed `quartz.config.ts` with base url and page title, inline google fonts
 - changed `quartz.layout.ts`
   - to remove footer links

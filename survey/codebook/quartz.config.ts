@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    baseUrl: "http://geheim.lizard-savehouse.org/",
+    baseUrl: "https://rhazn.github.io/2025-data-release-program-comprehension-jayvee",
     ignorePatterns: ["private", "_templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

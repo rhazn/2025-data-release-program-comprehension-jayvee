@@ -114,18 +114,6 @@ export default ((userOpts?: Partial<Options>) => {
         </button>
         <div id="explorer-content">
           <ul class="overflow" id="explorer-ul">
-            <li
-              key={"/"}
-              style={{
-                fontSize: "1.2rem",
-                marginTop: "1rem",
-                marginBottom: "1rem",
-              }}
-            >
-              <a href={"/"} data-for={"/"}>
-                Code Book
-              </a>
-            </li>
             <ExplorerNode node={fileTree} opts={opts} fileData={fileData} />
             <li id="explorer-end" />
           </ul>
