@@ -2,7 +2,7 @@
 This release contains the data used to evaluate program structure comprehension using [Jayvee](https://github.com/jvalue/jayvee) in a controlled experiment with students.
 
 ## External Links
-- [Full Codebook](TODO)
+- [Full Codebook](https://rhazn.github.io/2025-data-release-program-comprehension-jayvee/)
 - [Hosted Experiment Tool](http://131.188.64.202:8080/)
 
 ## Content
