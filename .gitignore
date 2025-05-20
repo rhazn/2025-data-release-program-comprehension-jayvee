@@ -5,3 +5,4 @@ __pycache__
 *.db
 /data/generated/*
 !/data/generated/.gitkeep
+!/data/data_anon.db
