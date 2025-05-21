@@ -2,7 +2,7 @@
 This release contains the data used to evaluate program structure comprehension using [Jayvee](https://github.com/jvalue/jayvee) in a controlled experiment with students.
 
 ## External Links
-- [Full Codebook](TODO)
+- [Full Codebook](https://rhazn.github.io/2025-data-release-program-comprehension-jayvee/)
 - [Hosted Experiment Tool](http://131.188.64.202:8080/)
 
 ## Content
@@ -22,4 +22,4 @@ This release contains the data used to evaluate program structure comprehension 
 ## Setup
 - Dependency management using `uv`, to initialize call `uv sync`
 - `source .venv/bin/activate`
-- Run notebooks with the created Python kerneln (3.11.11)
+- Run notebooks with the created Python kernel (3.11.11)
