@@ -77,6 +77,26 @@ def getTaskCorrectness(
     )
 
 
+def getTaskSubmission(
+    experimentId: str, taskId: int, df: pd.DataFrame
+) -> list[list[str]] | None:
+    finish = df[
+        (df["experiment"] == experimentId)
+        & (df["task"] == taskId)
+        & (df["type"] == "TASKCOMPLETED")
+    ]
+
+    if len(finish.index) == 0:
+        return None
+
+    context = json.loads(finish.iloc[0]["context"])
+
+    solutionParticipant = context["existingSteps"]
+    optionalStepsParticipant = context["optionalSteps"]
+
+    return [solutionParticipant, optionalStepsParticipant]
+
+
 class StepSwapContainer:
     def __init__(self, step, solutionPosition):
         self.step = step
